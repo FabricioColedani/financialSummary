@@ -1,0 +1,19 @@
+{
+  "name": "transaction_summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:html": "cucumber-js --format html:cucumber-report.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "chai": "^6.2.0"
+  }
+}
+
+
